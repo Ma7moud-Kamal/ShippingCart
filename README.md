@@ -35,7 +35,7 @@ Setup and Installation
 To set up the project on your local machine, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/yourusername/ShippingCart.git
+git clone (https://github.com/Ma7moud-Kamal/ShippingCart.git)
 cd ShippingCart
 
 Build the Project:
